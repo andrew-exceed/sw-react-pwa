@@ -1,0 +1,15 @@
+@import "./constant.scss";
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.content{
+    margin-top: 90px;
+    margin-bottom: 20px;
+    min-height: 500px;
+    padding-bottom: 20px;
+}
+.whiteLink{
+    color: $text;
+}
